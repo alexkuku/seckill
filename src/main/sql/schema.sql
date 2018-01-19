@@ -1,4 +1,4 @@
--- 数据库初始化脚本
+-- 数据库初始化脚
 
 -- 创建数据库
 CREATE DATABASE seckill;
